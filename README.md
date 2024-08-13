@@ -15,7 +15,7 @@ Automatically comment on King of the Hill (KOTH) tokens using text or images, en
 We welcome contributions! Open an issue or submit a pull request for ideas, suggestions, or bug reports.
 
 **Contact** <br>
-For questions or support, contact us at Telegram: [Andrew](https://t.me/andrewbizzle) 
+For questions or support, contact us at Telegram: [Andrew](https://t.me/andrewbizzle) Discord: [GAWBOT](https://discord.gg/42CmvN6z)
 
 Happy botting! 🎉
 
