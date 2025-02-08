@@ -1,6 +1,6 @@
 # PumpFun Comment Bot 🤖
 
-_THIS IS OUTDATED, [JOIN OUR DISCORD](https://discord.gg/42CmvN6z) TO GET LATEST COMMENT BOT<br>_
+_THIS IS OUTDATED, [JOIN OUR DISCORD](https://discord.gg/ygxgHpFUt2) TO GET LATEST COMMENT BOT<br>_
 
 _DEMO VIDEO: https://streamable.com/5p6zsq_<br>
 
